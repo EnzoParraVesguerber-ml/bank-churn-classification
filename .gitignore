@@ -1,0 +1,15 @@
+# Ignorar datasets
+*.csv
+*.xlsx
+*.zip
+/data/
+
+# Ignorar checkpoints do Jupyter
+**/.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do VSCode
+.vscode/
