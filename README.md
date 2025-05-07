@@ -100,3 +100,6 @@ The **XGBoost Classifier** was selected as the final model because:
 - Achieved the highest F1-score during cross-validation and on the test set.
 - Demonstrated a good balance between precision and recall.
 - Fast training time and built-in handling of feature interactions.
+
+
+The dataset is available on [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
